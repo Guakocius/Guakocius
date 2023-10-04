@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Engelhardt</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
-<img align="right" width="400" alt="coding gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFxM2RzdWxvenA1eGY5ZXU2dWUyYjZmcmN4cTQ0MGNuZWlueHkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" width="400" alt="coding gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFxM2RzdWxvenA1eGY5ZXU2dWUyYjZmcmN4cTQ0MGNuZWlueHkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guakocius&label=Profile%20views&color=0e75b6&style=flat" alt="guakocius" /> </p>
 
