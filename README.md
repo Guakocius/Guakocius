@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm Alexander Engelhardt</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h1 align="center">Hi 👋, I'm Alex</h1>
+<h3 align="center">A passionate frontend developer (in my free time) from Germany with an extensive Stack of HTML, CSS, JavaScript and React</h3>
 <img align="right" width="400" alt="coding gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFxM2RzdWxvenA1eGY5ZXU2dWUyYjZmcmN4cTQ0MGNuZWlueHkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guakocius&label=Profile%20views&color=0e75b6&style=flat" alt="guakocius" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guakocius" alt="guakocius" /></a> </p>
 
-- 🔭 I’m currently working on **a blog website**
+- 🔭 I’m currently working on **React Native projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and React Native**
 
 - 💬 Ask me about **MERN, HTML, CSS, Javascript**
 
-- 📫 How to reach me **engelhardt.alexander@mein.gmx**
-
 - ⚡ Fun fact **I know a lot programming memes**
+
+- 🖥️ I am currently working for **bownce holding GmbH** as a data architect
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexander-michael-engelhardt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-michael-engelhardt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexander-michael-engelhardt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a link to the Linkedin page for Alexander Engelhardt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
