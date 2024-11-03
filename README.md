@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guakocius" alt="guakocius" /></a> </p>
 
-- 🔭 I’m currently working on **React Native projects**
+- 🔭 I’m currently working on **Java Projects (i.e. Games and Simple Apps)**
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **Java and Python for Raspberry Pi 5**
 
-- 💬 Ask me about **MERN, HTML, CSS, Javascript**
+- 💬 Ask me about **MERN, HTML, CSS, Javascript and Java**
 
 - ⚡ Fun fact **I know a lot programming memes**
 
