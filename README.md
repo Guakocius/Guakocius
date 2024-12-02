@@ -16,7 +16,7 @@
 
 - 🖥️ I am currently working for **bownce holding GmbH** as a data architect
 
-- /\ **I use Arch BTW**
+- /\  **I use Arch BTW**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
