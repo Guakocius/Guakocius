@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN, HTML, CSS, Javascript and Java**
 
-- ⚡ Fun fact: **I know a lot programming memes**
+- ⚡ Fun fact: **I know a lot of programming memes**
 
 - 🖥️ I am currently working for **bownce holding GmbH** as a data architect
 
