@@ -8,11 +8,11 @@
 
 - I’m currently learning **Scala, C and Rust for Operating Systems**
 
-- 💬 Ask me about **Scala, OS, Rust fever dreams**
+- Ask me about **Scala, OS, Rust fever dreams**
 
-- ⚡ Fun fact: **I know a lot of programming memes**
+- Fun fact: **I know a lot of programming memes**
 
-- 🖥️ I am currently working for **bownce holding GmbH** as a Software Engineer
+- I am currently working for **bownce holding GmbH** as a Software Engineer
 
 - <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="arch" widht="20" height="20">  **I use Arch BTW**
 
