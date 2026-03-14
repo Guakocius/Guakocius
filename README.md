@@ -30,4 +30,5 @@
 <a href="https://www.w3schools.com/c" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"></a>
 </p>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Guakocius)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guakocius&layout=compact)
