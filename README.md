@@ -31,4 +31,4 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guakocius&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guakocius&layout=compact&hide=html,css)
