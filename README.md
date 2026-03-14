@@ -29,3 +29,5 @@
 <a href="https://rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust Programming Language" width="40" height="40" /></a>
 <a href="https://www.w3schools.com/c" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"></a>
 </p>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Guakocius)](https://github.com/anuraghazra/github-readme-stats)
