@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guakocius&label=Profile%20views&color=0e75b6&style=flat" alt="guakocius" /> </p>
 
-- I’m currently working on **An Operating System in Rust and a Flappy Bird reimagination in React with Vite**
+- I’m currently working on **A 3D Horror Game in Bevy and a Flappy Bird reimagination in React with Vite**
 
-- I’m currently learning **Creating Operating Systems, Rust and Functional Programming**
+- I’m currently learning **Game Development with Bevy, Rust and Functional Programming**
 
-- Ask me about **Operating Systems: Three Easy Pieces**
+- Ask me about **Rust**
 
 - Fun fact: **I know a lot of programming memes**
 
@@ -20,4 +20,4 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guakocius&layout=compact&hide=html,css)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Guakocius&layout=compact&hide=html,css)
