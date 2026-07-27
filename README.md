@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guakocius&label=Profile%20views&color=0e75b6&style=flat" alt="guakocius" /> </p>
 
-- I’m currently working on **A 3D Horror Game in Bevy and a Flappy Bird reimagination in React with Vite**
+- I’m currently working on **a 3D Horror Game in Bevy and a Flappy Bird reimagination in React with Vite**
 
 - I’m currently learning **Game Development with Bevy, Rust and Functional Programming**
 
